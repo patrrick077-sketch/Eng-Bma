@@ -10,7 +10,7 @@ app.json.ensure_ascii = False
 
 # --- Configuration ---
 INVOKE_URL = 'https://integrate.api.nvidia.com/v1/chat/completions'
-API_KEY = 'YOUR_API_KEY_HERE'  # 🔒 Replace with your real key
+API_KEY = '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'  # 🔒 Replace with your real key
 
 HEADERS = {
     'Authorization': f'Bearer {API_KEY}',
